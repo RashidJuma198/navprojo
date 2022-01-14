@@ -1,0 +1,105 @@
+body{
+    background:peachpuff ;
+}
+.saru{
+    color: #debf2b;
+    font-size: 50px;
+    text-align: center;
+}
+.crystal{
+    background-color: #ff0028;
+    width: 100px;
+    height: 50px;
+    border-radius: 8px;
+    border: unset;
+    font-size: 20px;
+    color: #ffffff;
+    cursor: pointer;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.maureen{
+    color: #c92900;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+}
+.register{
+    width: 40%;
+    margin: auto;
+
+}
+.catherine{
+    width: 100%;
+    height: 30px;
+    border-radius: 10px;
+    border: unset;
+    padding-left: 16px;
+    color: maroon;
+    font-weight: bold;
+}
+.btn_red{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    height: 40px;
+    background-color: green;
+    border-radius: 8px;
+    border: unset;
+    color: fuchsia;
+    font-size: 20px;
+    cursor: pointer;
+}
+.cos{
+    font-size: 35px;
+    font-family: "Droid Sans";
+    color: orangered;
+    text-decoration: underline;
+
+    width: 30%;
+    margin-right: 35%;
+    margin-left: 35%;
+
+}
+.coses{
+    font-size: 25px;
+    color: #1017de;
+    width: 30%;
+    margin-right: 35%;
+    margin-left: 35%;
+
+}
+hr{
+    height: 5px;
+    background-color: #26e309;
+
+}
+footer{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 50px;
+    color: #d211e0;
+}
+.mobi{
+    color: mediumblue;
+}
+img{
+    height: 40vh;
+    width: 170px;
+    margin-left: 10px;
+}
+h2{
+    color: #ff0028;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+
+}
+p{
+    font-weight: bold;
+    color: #d211e0;
+    font-size: 30px;
+}
